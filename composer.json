@@ -1,0 +1,30 @@
+{
+    "name": "arueckauer/solid-umbrella",
+    "type": "project",
+    "description": "GHA CI test",
+    "homepage": "https://github.com/arueckauer/solid-umbrella",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Andi Rückauer",
+            "email": "arueckauer@gmail.com",
+            "homepage": "https://arueckauer.github.io/",
+            "role": "Project Lead"
+        }
+    ],
+    "config": {
+        "sort-packages": true
+    },
+    "autoload": {
+        "psr-4": {
+            "SolidUmbrella\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "SolidUmbrellaTest\\": "test/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
