@@ -1,7 +1,7 @@
 {
     "name": "arueckauer/solid-umbrella",
     "type": "project",
-    "description": "GHA CI test",
+    "description": "GHA CI & autamatic release test ",
     "homepage": "https://github.com/arueckauer/solid-umbrella",
     "license": "BSD-3-Clause",
     "authors": [

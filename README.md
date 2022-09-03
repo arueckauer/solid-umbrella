@@ -1,2 +1,2 @@
 # solid-umbrella
-GHA CI test
+GHA CI & autamatic release test 
